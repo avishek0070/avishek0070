@@ -14,10 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="background-color: #f0f0f0; padding: 10px;">
-    <h2 style="color: #333;">My Projects</h2>
-    <ul>
-        <li><a href="https://github.com/yourusername/project1">Project 1</a></li>
-        <li><a href="https://github.com/yourusername/project2">Project 2</a></li>
-    </ul>
-</div>
+
