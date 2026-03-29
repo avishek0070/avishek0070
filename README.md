@@ -1,22 +1,36 @@
-<h1 align="center">Hi 👋, I'm Avishek Agarwal</h1>
-<h3 align="center">Final Year CS Student • Ex-Intern @ CRED • Builder & Problem Solver</h3>
+# Hi, I'm Avishek Agarwal
+### Final Year CS @ PES University • Ex-Intern @ CRED
 
-<p align="center">
-  I love building impactful products — from bots that win 🏆 to tools that help people every day.<br>
-  Whether it's solving complex problems with code, building real-world systems, or crafting meaningful user experiences — I'm all in 💻⚡.
-</p>
+I build systems that work in real-world conditions — not just coursework projects.
 
 ---
 
-### 📫 Connect with me
+## 🚀 What I’ve done
 
-- 🔗 LinkedIn: [avishek-agarwal007](https://www.linkedin.com/in/avishek-agarwal007/)
-- 📧 Email: [agarwalavishek.kne@gmail.com](mailto:agarwalavishek.kne@gmail.com)
+- 🧠 Built a **battle bot navigation system** — won ₹1L at IIT Kanpur  
+- 📱 Developed a **Flutter-based scanning app** used in college hackathons  
+- 🔌 Created a **Chrome extension** used by 30+ students for attendance tracking  
+- 🤖 Working on **ML models for crop recommendation & yield prediction**
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishek0070&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=avishek0070&show_icons=true&theme=tokyonight" alt="Avishek's GitHub stats" />
-</p>
+## 💼 Experience
+
+**CRED — SDE Intern**  
+Worked on production-level systems involving backend development, performance, and real-world constraints.
+
+---
+
+## ⚙️ Tech Focus
+
+- C++ (DSA, Competitive Programming)
+- System Design (LLD + fundamentals)
+- Backend + APIs
+- Machine Learning (applied)
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/avishek-agarwal007  
+- Email: agarwalavishek.kne@gmail.com
